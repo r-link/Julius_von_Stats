@@ -1,5 +1,5 @@
 ---
-title: "Statistics seminar course repository"
+title: "Course repository of the JvS statistics seminar"
 output: github_document
 ---
 

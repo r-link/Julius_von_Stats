@@ -1,4 +1,4 @@
-Statistics seminar course repository
+Course repository of the JvS statistics seminar
 ================
 
 ## Description
