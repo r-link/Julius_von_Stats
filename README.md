@@ -27,3 +27,11 @@ Location: [Kursraum, Chair of Botany II,
 Julius-von-Sachs-Platz 3](https://wueaddress.uni-wuerzburg.de/search/map/99992113)
 
 Topic: *Introduction to the tidyverse*
+
+## Course Wiki
+
+A [Wiki page](https://github.com/r-link/Julius_von_Stats/wiki) for the
+course is under construction. Besides a collection of links to [useful
+resources](https://github.com/r-link/Julius_von_Stats/wiki/Useful-resources),
+it is planned to use this platform to address a couple of frequently
+asked questions.
