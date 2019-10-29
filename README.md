@@ -27,6 +27,11 @@ Location: [Kursraum, Chair of Botany II,
 Julius-von-Sachs-Platz 3](https://wueaddress.uni-wuerzburg.de/search/map/99992113)
 
 Topic: *Introduction to the tidyverse*
+## Future dates (preliminary)
+**Date: Oct. 30, 2019 17:00**
+**Date: Nov. 28, 2019 17:00**
+**Date: Dec. 18, 2019 17:00**
+**Date: Jan. 29, 2020 17:00**
 
 ## Course Wiki
 
