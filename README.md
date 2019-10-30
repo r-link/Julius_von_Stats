@@ -21,21 +21,26 @@ will be expanded continuously (feel free to contribute).
 
 ## Next meeting
 
-**Date: Oct. 30, 2019 17:00**
+**Date: Nov. 28, 2019 17:00**
 
 Location: [Kursraum, Chair of Botany II,
 Julius-von-Sachs-Platz 3](https://wueaddress.uni-wuerzburg.de/search/map/99992113)
 
-Topic: *Introduction to the tidyverse*
-## Future dates (preliminary)
+Topic: *Up for debate*
 
-**Date: Oct. 30, 2019 17:00**
+## Future dates (preliminary)
 
 **Date: Nov. 28, 2019 17:00**
 
 **Date: Dec. 18, 2019 17:00**
 
 **Date: Jan. 29, 2020 17:00**
+
+## Announcements
+
+**Oct. 30, 2019:** The slides and exercise sheets of the `tidyverse`
+class are now available
+[here](https://github.com/r-link/Julius_von_Stats/tree/master/materials/2019-10-30%20R%20tidyverse)
 
 ## Course Wiki
 
