@@ -21,7 +21,7 @@ will be expanded continuously (feel free to contribute).
 
 ## Next meeting
 
-**Date: Nov. 28, 2019 17:00**
+**Date: Nov. 27, 2019 17:00**
 
 Location: [Kursraum, Chair of Botany II,
 Julius-von-Sachs-Platz 3](https://wueaddress.uni-wuerzburg.de/search/map/99992113)
