@@ -26,7 +26,7 @@ will be expanded continuously (feel free to contribute).
 Location: [Kursraum, Chair of Botany II,
 Julius-von-Sachs-Platz 3](https://wueaddress.uni-wuerzburg.de/search/map/99992113)
 
-Topic: *Up for debate*
+Topic: linear models!
 
 ## Future dates (preliminary)
 
