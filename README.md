@@ -30,8 +30,6 @@ Topic: linear models!
 
 ## Future dates (preliminary)
 
-**Date: Nov. 28, 2019 17:00**
-
 **Date: Dec. 18, 2019 17:00**
 
 **Date: Jan. 29, 2020 17:00**
