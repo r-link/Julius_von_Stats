@@ -33,8 +33,8 @@ As an example, here's a tree with 10 iterations with very simple settings:
 Here's a bit more sophisticated parameterization (tree based on 25 iterations):
 ![Tree based on 25 iterations with a bit more realistic settings](figures/tree2.png)
 
-...and here's something that is going into the desired direction - a tree that sort of looks like a conifer. Now we just have to decorate it....
-![Conifer model with 100 iterations](figures/conifer1.png)
+...and here's what we all secretly want: a home grown digital Christmas tree:
+![Conifer model with 100 iterations](figures/animation.gif)
 
 If you want to take part in the challenge, bring your own laptop, please. Also bring everything you would want to have around in order to have a happy coding time (snacks, drinks, whatever).
 
