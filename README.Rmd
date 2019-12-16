@@ -21,7 +21,7 @@ Location: [Kursraum, Chair of Botany II, Julius-von-Sachs-Platz 3](https://wuead
 
 For our next our next meeting, we have prepared a special christmas session. We will start with a short introduction into `ggplot2` for those of you who haven't had the chance to work with R's greatest visualisation package. 
 
-Then we will show you how to use simple branching models to simulate our own trees, and plot them with `ggplot()`. We will then introduce you to our (soon?) world-famous **CHRISTMAS TREE CHALLENGE**: 
+Then we will show you how to use simple branching models to simulate our own trees, and plot them with `ggplot()`. We will then introduce you to our (soon?) world-famous [**CHRISTMAS TREE CHALLENGE**](https://github.com/r-link/christmas_tree_challenge/): 
 
 * use our scripts with settings that result in simulated trees that look like conifers, 
 * use all available `ggplot2` magic to plot them as realistically as possible,
