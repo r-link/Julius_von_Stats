@@ -33,7 +33,8 @@ visualisation package.
 
 Then we will show you how to use simple branching models to simulate our
 own trees, and plot them with `ggplot()`. We will then introduce you to
-our (soon?) world-famous **CHRISTMAS TREE CHALLENGE**:
+our (soon?) world-famous [**CHRISTMAS TREE
+CHALLENGE**](https://github.com/r-link/christmas_tree_challenge/):
 
   - use our scripts with settings that result in simulated trees that
     look like conifers,
