@@ -65,11 +65,9 @@ it will be a fun evening\!
 
 **Date: Jan. 29, 2020 17:00**
 
-**Date: Nov. 28, 2019 17:00**
+**Date: Feb. 26, 2020 17:00**
 
-**Date: Dec. 18, 2019 17:00**
-
-**Date: Jan. 29, 2020 17:00**
+**Date: Mar., 25, 2020 17:00**
 
 ## Announcements
 
