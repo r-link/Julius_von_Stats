@@ -15,21 +15,45 @@ you may benefit nonetheless.
 The Seminar takes place monthly, normally on the last Wednesday at 17:00
 (changes will be announced here).
 
+**As there is mostly an applied section in the classes and Eduroam is
+always a drag, it will help tremendously if you bring your own laptop
+and [install an up-to-date R-version and
+RStudio](https://rstudio-education.github.io/hopr/starting.html)
+(+ideally the `tidyverse` package) *before* you come to class\!**
+
 This repository is meant for the storage and exchange of course
 materials, presentations, useful resources for self-learning etc. and
 will be expanded continuously (feel free to contribute).
 
 ## Next meeting
 
-**Date: Dec 18, 2019 17:00**
+**Date: Jan. 29, 2020 17:00** - *R-squared and all that: Explained
+variance in linear models*
 
 Location: [Kursraum, Chair of Botany II,
 Julius-von-Sachs-Platz 3](https://wueaddress.uni-wuerzburg.de/search/map/99992113)
 
-For our next our next meeting, we have prepared a special christmas
-session. We will start with a short introduction into `ggplot2` for
-those of you who haven’t had the chance to work with R’s greatest
-visualisation package.
+## Future dates (preliminary)
+
+**Date: Feb. 26, 2020 17:00**
+
+**Date: Mar., 25, 2020 17:00**
+
+## Course Wiki
+
+A [Wiki page](https://github.com/r-link/Julius_von_Stats/wiki) for the
+course is under construction. Besides a collection of links to [useful
+resources](https://github.com/r-link/Julius_von_Stats/wiki/Useful-resources),
+it is planned to use this platform to address a couple of frequently
+asked questions.
+
+## Past sessions
+
+### Dec. 18, 2019
+
+For this meeting, we have prepared a special christmas session. We will
+start with a short introduction into `ggplot2` for those of you who
+haven’t had the chance to work with R’s greatest visualisation package.
 
 Then we will show you how to use simple branching models to simulate our
 own trees, and plot them with `ggplot()`. We will then introduce you to
@@ -61,24 +85,27 @@ have a happy coding time (snacks, drinks, whatever).
 We will provide cookies, sweets and other fancy stuff, so rest assured
 it will be a fun evening\!
 
-## Future dates (preliminary)
+The course materials for the `ggplot` input session are
+[here](https://github.com/r-link/Julius_von_Stats/tree/master/materials/2019-12-18%20R%20ggplot2%20intro).
 
-**Date: Jan. 29, 2020 17:00**
+### Nov. 27, 2019 - Linear model basics
 
-**Date: Feb. 26, 2020 17:00**
+The course materials for the Base R session are
+[here](https://github.com/r-link/Julius_von_Stats/tree/master/materials/2019-11-27%20linear%20models).
 
-**Date: Mar., 25, 2020 17:00**
+### Oct. 30, 2019 - Introduction to the tidyverse
 
-## Announcements
+The slides and exercise sheets of the `tidyverse` class are now
+available
+[here](https://github.com/r-link/Julius_von_Stats/tree/master/materials/2019-10-30%20R%20tidyverse).
 
-**Oct. 30, 2019:** The slides and exercise sheets of the `tidyverse`
-class are now available
-[here](https://github.com/r-link/Julius_von_Stats/tree/master/materials/2019-10-30%20R%20tidyverse)
+### August 29, 2019 - Base R exercises
 
-## Course Wiki
+The course materials for the Base R session are
+[here](https://github.com/r-link/Julius_von_Stats/tree/master/materials/2019-08-28%20-%20base%20R%20exercises).
 
-A [Wiki page](https://github.com/r-link/Julius_von_Stats/wiki) for the
-course is under construction. Besides a collection of links to [useful
-resources](https://github.com/r-link/Julius_von_Stats/wiki/Useful-resources),
-it is planned to use this platform to address a couple of frequently
-asked questions.
+### Jul. 31, 2019 - Tidy and reproducible Spreadsheets
+
+The slides for the presentation about tidy and reproducible spreadsheets
+can be accessed
+[here](https://github.com/r-link/Julius_von_Stats/blob/master/materials/2019-07-31%20-%20tidy%20and%20reproducible%20spreadsheets/Tidy%20and%20reproducible%20spreadsheets%20\(presentation\).pdf).
