@@ -9,8 +9,8 @@ literacy and their R skill set. It is mainly directed at the PhD
 students working at the institute, but anyone else (BSc and MSc
 students, Postdocs & PIs, people from other institutes etc.) are
 welcome. Currently, we are dealing with rather basal topics which are
-not related to biological questions, so if you’re from a different field
-you may benefit nonetheless.
+not related to specific biological questions, so if you’re from a
+different field you may benefit nonetheless.
 
 The Seminar takes place monthly, normally on the last Wednesday at 17:00
 (changes will be announced here).
@@ -18,8 +18,8 @@ The Seminar takes place monthly, normally on the last Wednesday at 17:00
 **As there is mostly an applied section in the classes and Eduroam is
 always a drag, it will help tremendously if you bring your own laptop
 and [install an up-to-date R-version and
-RStudio](https://rstudio-education.github.io/hopr/starting.html)
-(+ideally the `tidyverse` package) *before* you come to class\!**
+RStudio](https://rstudio-education.github.io/hopr/starting.html) (and
+ideally the `tidyverse` package) *before* you come to class\!**
 
 This repository is meant for the storage and exchange of course
 materials, presentations, useful resources for self-learning etc. and
@@ -85,7 +85,7 @@ have a happy coding time (snacks, drinks, whatever).
 We will provide cookies, sweets and other fancy stuff, so rest assured
 it will be a fun evening\!
 
-The course materials for the `ggplot` input session are
+The course materials for the `ggplot2` input session are
 [here](https://github.com/r-link/Julius_von_Stats/tree/master/materials/2019-12-18%20R%20ggplot2%20intro).
 
 ### Nov. 27, 2019 - Linear model basics
@@ -104,7 +104,7 @@ available
 The course materials for the Base R session are
 [here](https://github.com/r-link/Julius_von_Stats/tree/master/materials/2019-08-28%20-%20base%20R%20exercises).
 
-### Jul. 31, 2019 - Tidy and reproducible Spreadsheets
+### Jul. 31, 2019 - Tidy and reproducible spreadsheets
 
 The slides for the presentation about tidy and reproducible spreadsheets
 can be accessed

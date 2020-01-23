@@ -8,11 +8,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Description
-The Statistics Seminar of the Julius-von-Sachs-Institute is an open, informal meeting for anyone interested in improving their statistical literacy and their R skill set. It is mainly directed at the PhD students working at the institute, but anyone else (BSc and MSc students, Postdocs & PIs, people from other institutes etc.) are welcome. Currently, we are dealing with rather basal topics which are not related to biological questions, so if you're from a different field you may benefit nonetheless.
+The Statistics Seminar of the Julius-von-Sachs-Institute is an open, informal meeting for anyone interested in improving their statistical literacy and their R skill set. It is mainly directed at the PhD students working at the institute, but anyone else (BSc and MSc students, Postdocs & PIs, people from other institutes etc.) are welcome. Currently, we are dealing with rather basal topics which are not related to specific biological questions, so if you're from a different field you may benefit nonetheless.
 
 The Seminar takes place monthly, normally on the last Wednesday at 17:00 (changes will be announced here). 
 
-**As there is mostly an applied section in the classes and Eduroam is always a drag, it will help tremendously if you bring your own laptop and [install an up-to-date R-version and RStudio](https://rstudio-education.github.io/hopr/starting.html) (+ideally the `tidyverse` package) _before_ you come to class!**
+**As there is mostly an applied section in the classes and Eduroam is always a drag, it will help tremendously if you bring your own laptop and [install an up-to-date R-version and RStudio](https://rstudio-education.github.io/hopr/starting.html) (and ideally the `tidyverse` package) _before_ you come to class!**
 
 
 
@@ -56,7 +56,7 @@ If you want to take part in the challenge, bring your own laptop, please. Also b
 
 We will provide cookies, sweets and other fancy stuff, so rest assured it will be a fun evening!
 
-The course materials for the `ggplot` input session are [here](https://github.com/r-link/Julius_von_Stats/tree/master/materials/2019-12-18%20R%20ggplot2%20intro).
+The course materials for the `ggplot2` input session are [here](https://github.com/r-link/Julius_von_Stats/tree/master/materials/2019-12-18%20R%20ggplot2%20intro).
 
 ### Nov. 27, 2019 - Linear model basics
 The course materials for the Base R session are [here](https://github.com/r-link/Julius_von_Stats/tree/master/materials/2019-11-27%20linear%20models).
@@ -67,7 +67,7 @@ The slides and exercise sheets of the `tidyverse` class are now available [here]
 ### August 29, 2019 - Base R exercises
 The course materials for the Base R session are [here](https://github.com/r-link/Julius_von_Stats/tree/master/materials/2019-08-28%20-%20base%20R%20exercises).
 
-### Jul. 31, 2019 - Tidy and reproducible Spreadsheets
+### Jul. 31, 2019 - Tidy and reproducible spreadsheets
 The slides for the presentation about tidy and reproducible spreadsheets can be accessed 
 [here](https://github.com/r-link/Julius_von_Stats/blob/master/materials/2019-07-31%20-%20tidy%20and%20reproducible%20spreadsheets/Tidy%20and%20reproducible%20spreadsheets%20(presentation).pdf).
 
