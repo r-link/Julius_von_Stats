@@ -19,14 +19,11 @@ The Seminar takes place monthly, normally on the last Wednesday at 17:00 (change
 This repository is meant for the storage and exchange of course materials, presentations, useful resources for self-learning etc. and will be expanded continuously (feel free to contribute).
 
 ## Next meeting
-**Date: Jan. 29, 2020 17:00** - _R-squared and all that: Explained variance in linear models_
-
+**Date: Feb. 26, 2020 17:00** - Open session: Bring your data and tell us your worries!
 
 Location: [Kursraum, Chair of Botany II, Julius-von-Sachs-Platz 3](https://wueaddress.uni-wuerzburg.de/search/map/99992113)
 
 ## Future dates (preliminary)
-**Date: Feb. 26, 2020 17:00**
-
 **Date:  Mar., 25, 2020 17:00**
 
 ## Course Wiki
@@ -34,6 +31,9 @@ A [Wiki page](https://github.com/r-link/Julius_von_Stats/wiki) for the course is
 
 
 ## Past sessions
+### Jan. 29, 2020 
+_R-squared and all that: Explained variance in linear models_
+
 ### Dec. 18, 2019
 For this meeting, we have prepared a special christmas session. We will start with a short introduction into `ggplot2` for those of you who haven't had the chance to work with R's greatest visualisation package. 
 
