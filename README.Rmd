@@ -19,18 +19,23 @@ The Seminar takes place monthly, normally on the last Wednesday at 17:00 (change
 This repository is meant for the storage and exchange of course materials, presentations, useful resources for self-learning etc. and will be expanded continuously (feel free to contribute).
 
 ## Next meeting
-**Date: Feb. 26, 2020 17:00** - Open session: Bring your data and tell us your worries!
+**Date:  Mar. 25, 2020 17:00** - To be announced
 
 Location: [Kursraum, Chair of Botany II, Julius-von-Sachs-Platz 3](https://wueaddress.uni-wuerzburg.de/search/map/99992113)
 
 ## Future dates (preliminary)
-**Date:  Mar., 25, 2020 17:00**
+**Date:  Apr. 29, 2020 17:00**
+
+**Date:  May 27, 2020 17:00**
 
 ## Course Wiki
 A [Wiki page](https://github.com/r-link/Julius_von_Stats/wiki) for the course is under construction. Besides a collection of links to [useful resources](https://github.com/r-link/Julius_von_Stats/wiki/Useful-resources), it is planned to use this platform to address a couple of frequently asked questions.
 
 
 ## Past sessions
+### Feb. 26, 2020 
+_Open session: Bring your data and tell us your worries!_
+
 ### Jan. 29, 2020 
 _R-squared and all that: Explained variance in linear models_
 
