@@ -19,11 +19,13 @@ The Seminar takes place monthly, normally on the last Wednesday at 17:00 (change
 This repository is meant for the storage and exchange of course materials, presentations, useful resources for self-learning etc. and will be expanded continuously (feel free to contribute).
 
 ## Next meeting
-**Date:  Mar. 25, 2020 17:00** - To be announced
+Given the current uncertainty in planning due to COVID-19, it is not sure when we will be able to hold our next meeting. The March date has to be cancelled,  but at the current point in time it is not possible to predict how the situation will look like in April.
 
 Location: [Kursraum, Chair of Botany II, Julius-von-Sachs-Platz 3](https://wueaddress.uni-wuerzburg.de/search/map/99992113)
 
 ## Future dates (preliminary)
+Before the Corona situation gets sorted out, we will not be able to fix new dates with certainty. The next potential dates are:
+
 **Date:  Apr. 29, 2020 17:00**
 
 **Date:  May 27, 2020 17:00**
